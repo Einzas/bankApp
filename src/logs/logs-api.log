@@ -1,0 +1,22 @@
+[2023-06-11T23:02:11.279Z] info: Can't find /api/v1/users on this server! 🧨 || undefined undefined
+[2023-06-11T23:03:32.049Z] info: Can't find /api/v1/users on this server! 🧨 || undefined undefined
+[2023-06-11T23:04:29.592Z] info: Can't find /api/v1/users on this server! 🧨 || undefined undefined
+[2023-06-11T23:04:50.231Z] info: Can't find /api/v1/users on this server! 🧨 || undefined undefined
+[2023-06-11T23:06:11.268Z] info: Can't find /api/v1/users on this server! 🧨 || undefined undefined
+[2023-06-11T23:07:03.269Z] info: Can't find /api/v1/users on this server! 🧨 || undefined undefined
+[2023-06-11T23:08:56.884Z] info: Can't find /api/v1/users/ on this server! 🧨 || undefined undefined
+[2023-06-11T23:09:46.925Z] info: Can't find /api/v1/users/signin on this server! 🧨 || undefined undefined
+[2023-06-11T23:09:59.731Z] info: user.correctPassword is not a function || undefined undefined
+[2023-06-11T23:13:17.195Z] info: AppError is not defined || undefined undefined
+[2023-06-11T23:13:30.034Z] info: Invalid credentials || undefined undefined
+[2023-06-11T23:25:37.116Z] info: Can't find /api/v1/transfers on this server! 🧨 || undefined undefined
+[2023-06-11T23:25:43.264Z] info: Can't find /api/v1/transfers/ on this server! 🧨 || undefined undefined
+[2023-06-11T23:26:22.017Z] info: el valor «8146945334» está fuera de rango para el tipo integer || undefined undefined
+[2023-06-11T23:44:38.394Z] info: Cannot destructure property 'id' of 'req.user' as it is undefined. || undefined undefined
+[2023-06-11T23:45:12.245Z] info: Transfer is not defined || undefined undefined
+[2023-06-11T23:45:59.967Z] info: Transfer is not defined || undefined undefined
+[2023-06-11T23:46:01.429Z] info: Transfer is not defined || undefined undefined
+[2023-06-11T23:48:39.884Z] info: No transfers found! 😥 || undefined undefined
+[2023-06-11T23:54:05.706Z] info: Can't find /api/v1/users/ on this server! 🧨 || undefined undefined
+[2023-06-11T23:54:27.936Z] info: User is not defined || undefined undefined
+[2023-06-11T23:55:09.280Z] info: User.findAll(...).sort is not a function || undefined undefined
